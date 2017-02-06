@@ -1,6 +1,10 @@
 Name: Hyein Kang
 Date: Feburary 3rd, 2017
 
-This is my first text document for MART 340 - Web Development.
+This is my first text document for MART 340 - Web Development. Yay
 
-I added a new line to this file in my text editor!!!
+I added this file in my text editor!!!
+
+
+Adding new line.
+and new line.
