@@ -20,4 +20,10 @@ I will try harder next time to do assignment. Following is my decision for this 
 
 Finally, I did enjoy setting up my text editor, Atom, this week. Even though, I had hard time push it to github.
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ![Image of my editor](image.jpg)
