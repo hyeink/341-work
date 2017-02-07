@@ -4,22 +4,20 @@ Hyein Kang 50
 ## Web Design Class
 ### How do you know
 
-This is Hyein Kang.
+This week I was introduced to a number of development technologies that I had not previously known about. These included
 
-This is **Hyein Kang**
+- git
+- github
+- the Atom text editor
+- and the markdown language.
 
-This is my website. (https://hyeinkang.wordpress.com)
+I wasn't really sure and understand fully about what a text file is, but I'm getting in it. I hope I could do better in next assignment. This is my website. (https://hyeinkang.wordpress.com)
 
-Just few more lines to edit.
+I will try harder next time to do assignment. Following is my decision for this semester.
 
-- University of Montana
-- B.F.A Media Arts student
+1. Do everything beforehand.
+2. Don't be lame.
 
-function test () {
-  console.log("notice the blank line before this function?");
-}
-
-1. web
-2. Design
+Finally, I did enjoy setting up my text editor, Atom, this week. Even though, I had hard time push it to github.
 
 ![Image of my editor](image.jpg)
