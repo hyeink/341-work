@@ -10,6 +10,8 @@ This is **Hyein Kang**
 
 This is my website. (https://hyeinkang.wordpress.com)
 
+Just few more lines to edit.
+
 - University of Montana
 - B.F.A Media Arts student
 
