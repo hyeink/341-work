@@ -25,5 +25,5 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-
+I have no idea why the image doesn't show up in here though.
 ![Image of my editor](image.jpg)
